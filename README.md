@@ -9,5 +9,6 @@ A simple todo list app built with Node, Express and MongoDB.
 
 ## Want to Use
 1. Clone the package
-2. Place your username and password in atlas mongo connection string to connect to mongodb server on atlas
-3. You are ready to go
+2. Place your MongoDB connection URL on line 6 in app.js
+3. Run npm install to install the dependencies
+4. You are ready to go, run nodemon and go to localhost:3000
